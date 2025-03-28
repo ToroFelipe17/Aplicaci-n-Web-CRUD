@@ -1,16 +1,17 @@
 **# Gestión de Recursos - CRUD con PHP y MySQL  
-Este proyecto es una aplicación web que permite gestionar recursos con operaciones CRUD y autenticación de usuarios.  
+Sistema de gestión de recursos desarrollado en PHP con MySQL. Permite el registro, edición y eliminación de recursos, así como la asignación de usuarios.
 
-## 🚀 Tecnologías utilizadas  
-- PHP  
-- MySQL  
-- HTML, CSS  
-- JavaScript  
+## 🔹 Tecnologías utilizadas
+- PHP
+- MySQL
+- HTML, CSS, JavaScript
+- XAMPP (para pruebas locales)
 
-## 📌 Características  
-✅ Registro e inicio de sesión de usuarios  
-✅ CRUD de recursos  
-✅ Diseño responsive  
+## 📌 Funcionalidades principales
+- Registro de usuarios con autenticación.
+- CRUD de recursos (Crear, Leer, Actualizar, Eliminar).
+- Sistema de asignaciones.
+- Seguridad con validaciones de datos
 
 ## 📂 Estructura del proyecto  
 - `/includes/` → Conexión a la base de datos  
@@ -18,8 +19,7 @@ Este proyecto es una aplicación web que permite gestionar recursos con operacio
 - `index.php` → Página principal  
 - `dashboard.php` → Panel de administración  
 
-## 🔧 Instalación  
-1. Clona el repositorio:  
+## 🔧 Instalación    
    ```sh
-   git clone https://github.com/tuusuario/gestion-recursos.git
+   [git clone https://github.com/tuusuario/gestion-recursos.git]
 **
