@@ -1,4 +1,4 @@
-**# Gestión de Recursos - CRUD con PHP y MySQL  
+# Gestión de Recursos - CRUD con PHP y MySQL  
 Sistema de gestión de recursos desarrollado en PHP con MySQL. Permite el registro, edición y eliminación de recursos, así como la asignación de usuarios.
 
 ## 🔹 Tecnologías utilizadas
