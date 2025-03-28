@@ -20,6 +20,5 @@ Sistema de gestión de recursos desarrollado en PHP con MySQL. Permite el regist
 - `dashboard.php` → Panel de administración  
 
 ## 🔧 Instalación    
-   ```sh
-   https://github.com/ToroFelipe17/Gesti-n-de-Recursos/tree/main/Gestion%20Recursos
-**
+   ```bash
+https://github.com/ToroFelipe17/Gesti-n-de-Recursos/tree/main
