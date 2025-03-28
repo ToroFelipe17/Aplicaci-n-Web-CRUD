@@ -2,7 +2,7 @@
 // Detalles de conexión a la base de datos
 $host = "localhost";
 $username = "root"; 
-$password = "0258Pipe0"; 
+$password = "********"; 
 $dbname = "gestion_recursos";
 
 // Crear la conexión
