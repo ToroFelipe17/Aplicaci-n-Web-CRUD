@@ -21,5 +21,5 @@ Sistema de gestión de recursos desarrollado en PHP con MySQL. Permite el regist
 
 ## 🔧 Instalación    
    ```sh
-   (https://github.com/ToroFelipe17/Gesti-n-de-Recursos/tree/main/Gestion%20Recursos)
+   https://github.com/ToroFelipe17/Gesti-n-de-Recursos/tree/main/Gestion%20Recursos
 **
